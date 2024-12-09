@@ -11,7 +11,7 @@ const Tab = () => {
     // flex items-center flex-shrink-0 px-5 py-3 space-x-2 border-b dark:border-gray-600 dark:text-gray-600
     return (
         <div className="mt-14">
-            <div className="flex items-center -mx-4 overflow-x-auto overflow-y-hidden sm:justify-center flex-nowrap dark:  dark:text-gray-800">
+            <div className="flex items-center -mx-4 overflow-x-auto overflow-y-hidden sm:justify-center flex-nowrap dark:bg-gray-100 dark:text-gray-800">
                 {/* Tabs */}
                 <a
                     href="#"
